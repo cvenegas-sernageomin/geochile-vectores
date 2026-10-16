@@ -1,0 +1,670 @@
+{
+ "cartas": {
+  "GB-100_M145": {
+   "poligonos": 934,
+   "fallas": 291,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 1285
+  },
+  "GB-101_M125": {
+   "poligonos": 443,
+   "fallas": 33,
+   "sin_edad": 364,
+   "sin_litologia": 36,
+   "kb": 339
+  },
+  "GB-102_M46": {
+   "poligonos": 1813,
+   "fallas": 1316,
+   "sin_edad": 26,
+   "sin_litologia": 86,
+   "kb": 1685
+  },
+  "GB-103-104_M147": {
+   "poligonos": 1691,
+   "fallas": 1201,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 1863
+  },
+  "GB-105_M148": {
+   "poligonos": 1372,
+   "fallas": 945,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 1395
+  },
+  "M149": {
+   "poligonos": 692,
+   "fallas": 23,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 779
+  },
+  "GB-108_M151": {
+   "poligonos": 941,
+   "fallas": 320,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 962
+  },
+  "GB-110_M154": {
+   "poligonos": 178,
+   "fallas": 21,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 343
+  },
+  "GB-111_M155": {
+   "poligonos": 2206,
+   "fallas": 325,
+   "sin_edad": 0,
+   "sin_litologia": 33,
+   "kb": 2359
+  },
+  "GB-112_M156": {
+   "poligonos": 814,
+   "fallas": 464,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 859
+  },
+  "GB-113_M157": {
+   "poligonos": 385,
+   "fallas": 128,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 204
+  },
+  "GB-115_M163": {
+   "datum": "sumar traslación (-207 m E, -443 m N)",
+   "poligonos": 981,
+   "fallas": 397,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 886
+  },
+  "GB-116_M162": {
+   "poligonos": 300,
+   "fallas": 190,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 565
+  },
+  "M167": {
+   "poligonos": 1989,
+   "fallas": 310,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 1805
+  },
+  "GB-119_M58": {
+   "poligonos": 1609,
+   "fallas": 812,
+   "sin_edad": 20,
+   "sin_litologia": 0,
+   "kb": 1562
+  },
+  "GB-120_M164": {
+   "poligonos": 788,
+   "fallas": 394,
+   "sin_edad": 1,
+   "sin_litologia": 39,
+   "kb": 1113
+  },
+  "GB-124_M175": {
+   "poligonos": 1137,
+   "fallas": 211,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 1045
+  },
+  "GB-129_M192": {
+   "poligonos": 837,
+   "fallas": 1910,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 1217
+  },
+  "GB-130_M193": {
+   "poligonos": 293,
+   "fallas": 35,
+   "sin_edad": 0,
+   "sin_litologia": 4,
+   "kb": 282
+  },
+  "GB-141-142_M203": {
+   "poligonos": 1754,
+   "fallas": 759,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 2187
+  },
+  "GB-161_M209": {
+   "poligonos": 710,
+   "fallas": 213,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 846
+  },
+  "GB-195-196_M340": {
+   "poligonos": 1330,
+   "fallas": 746,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 1617
+  },
+  "GB-223-224_M456": {
+   "poligonos": 475,
+   "fallas": 53,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 841
+  },
+  "GB-74_M40": {
+   "poligonos": 684,
+   "fallas": 153,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 810
+  },
+  "GB-76_M24": {
+   "poligonos": 702,
+   "fallas": 168,
+   "sin_edad": 49,
+   "sin_litologia": 13,
+   "kb": 880
+  },
+  "GB-77-78_M30": {
+   "poligonos": 1267,
+   "fallas": 83,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 1448
+  },
+  "GB-79_M110": {
+   "poligonos": 290,
+   "fallas": 65,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 622
+  },
+  "GB-80_M48": {
+   "poligonos": 679,
+   "fallas": 327,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 886
+  },
+  "GB-81_M50": {
+   "poligonos": 355,
+   "fallas": 65,
+   "sin_edad": 0,
+   "sin_litologia": 4,
+   "kb": 569
+  },
+  "GB-82_M32": {
+   "poligonos": 951,
+   "fallas": 517,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 1213
+  },
+  "GB-83_M49": {
+   "datum": "sumar traslación (-208 m E, -444 m N)",
+   "poligonos": 416,
+   "fallas": 337,
+   "sin_edad": 1,
+   "sin_litologia": 0,
+   "kb": 512
+  },
+  "GB-89_M45": {
+   "poligonos": 1695,
+   "fallas": 1065,
+   "sin_edad": 0,
+   "sin_litologia": 164,
+   "kb": 1748
+  },
+  "GB-91_M25": {
+   "poligonos": 1352,
+   "fallas": 591,
+   "sin_edad": 0,
+   "sin_litologia": 113,
+   "kb": 1583
+  },
+  "GB-92_M26": {
+   "poligonos": 1288,
+   "fallas": 552,
+   "sin_edad": 0,
+   "sin_litologia": 137,
+   "kb": 1351
+  },
+  "GB-94_M141": {
+   "datum": "restar traslación (222 m E, 446 m N)",
+   "poligonos": 384,
+   "fallas": 28,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 351
+  },
+  "GB-95_M113": {
+   "poligonos": 612,
+   "fallas": 485,
+   "sin_edad": 1,
+   "sin_litologia": 4,
+   "kb": 653
+  },
+  "GB-96_M120": {
+   "poligonos": 790,
+   "fallas": 232,
+   "sin_edad": 0,
+   "sin_litologia": 3,
+   "kb": 1317
+  },
+  "GB-97_M47": {
+   "poligonos": 308,
+   "fallas": 146,
+   "sin_edad": 0,
+   "sin_litologia": 21,
+   "kb": 557
+  },
+  "GB-98_M124": {
+   "poligonos": 694,
+   "fallas": 37,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 707
+  },
+  "GB-C39_M429": {
+   "poligonos": 543,
+   "fallas": 343,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 689
+  },
+  "GB-C68_M432": {
+   "poligonos": 760,
+   "fallas": 631,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 1480
+  },
+  "GB-C69_M431": {
+   "poligonos": 1172,
+   "fallas": 1200,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 1902
+  },
+  "M159": {
+   "poligonos": 858,
+   "fallas": 225,
+   "sin_edad": 0,
+   "sin_litologia": 6,
+   "kb": 1196
+  },
+  "M172": {
+   "poligonos": 1155,
+   "fallas": 771,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 1356
+  },
+  "M173": {
+   "poligonos": 463,
+   "fallas": 74,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 657
+  },
+  "M176": {
+   "poligonos": 745,
+   "fallas": 120,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 734
+  },
+  "M185": {
+   "poligonos": 365,
+   "fallas": 0,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 266
+  },
+  "M191": {
+   "poligonos": 745,
+   "fallas": 0,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 824
+  },
+  "M192": {
+   "poligonos": 837,
+   "fallas": 1910,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 1217
+  },
+  "M197": {
+   "poligonos": 870,
+   "fallas": 2243,
+   "sin_edad": 1,
+   "sin_litologia": 0,
+   "kb": 1197
+  },
+  "M198": {
+   "poligonos": 980,
+   "fallas": 245,
+   "sin_edad": 0,
+   "sin_litologia": 16,
+   "kb": 1322
+  },
+  "M199": {
+   "poligonos": 931,
+   "fallas": 191,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 1225
+  },
+  "M201": {
+   "poligonos": 2159,
+   "fallas": 406,
+   "sin_edad": 0,
+   "sin_litologia": 205,
+   "kb": 1671
+  },
+  "M202": {
+   "poligonos": 897,
+   "fallas": 79,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 1080
+  },
+  "M203": {
+   "poligonos": 1754,
+   "fallas": 759,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 2187
+  },
+  "M208": {
+   "poligonos": 1299,
+   "fallas": 486,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 1736
+  },
+  "M209": {
+   "poligonos": 710,
+   "fallas": 213,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 846
+  },
+  "M213": {
+   "poligonos": 963,
+   "fallas": 227,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 1009
+  },
+  "M214": {
+   "poligonos": 1185,
+   "fallas": 369,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 1312
+  },
+  "M215": {
+   "poligonos": 840,
+   "fallas": 452,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 941
+  },
+  "M21": {
+   "poligonos": 1246,
+   "fallas": 423,
+   "sin_edad": 0,
+   "sin_litologia": 12,
+   "kb": 1636
+  },
+  "M22": {
+   "poligonos": 880,
+   "fallas": 258,
+   "sin_edad": 9,
+   "sin_litologia": 3,
+   "kb": 1262
+  },
+  "M28": {
+   "poligonos": 1600,
+   "fallas": 940,
+   "sin_edad": 11,
+   "sin_litologia": 41,
+   "kb": 1463
+  },
+  "M292": {
+   "poligonos": 1372,
+   "fallas": 760,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 1467
+  },
+  "M29": {
+   "poligonos": 1003,
+   "fallas": 411,
+   "sin_edad": 2,
+   "sin_litologia": 78,
+   "kb": 1032
+  },
+  "M309": {
+   "poligonos": 1496,
+   "fallas": 1603,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 5761
+  },
+  "M312": {
+   "poligonos": 4659,
+   "fallas": 1271,
+   "sin_edad": 0,
+   "sin_litologia": 10,
+   "kb": 2923
+  },
+  "M313": {
+   "poligonos": 1606,
+   "fallas": 87,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 1473
+  },
+  "M314": {
+   "poligonos": 871,
+   "fallas": 238,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 802
+  },
+  "M315": {
+   "poligonos": 1480,
+   "fallas": 281,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 1505
+  },
+  "M316": {
+   "poligonos": 347,
+   "fallas": 9,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 606
+  },
+  "M31": {
+   "poligonos": 1441,
+   "fallas": 770,
+   "sin_edad": 229,
+   "sin_litologia": 5,
+   "kb": 1733
+  },
+  "M320": {
+   "poligonos": 859,
+   "fallas": 197,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 1259
+  },
+  "M321": {
+   "poligonos": 941,
+   "fallas": 30,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 1069
+  },
+  "M325": {
+   "poligonos": 699,
+   "fallas": 108,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 1000
+  },
+  "M327": {
+   "poligonos": 558,
+   "fallas": 221,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 992
+  },
+  "M336": {
+   "poligonos": 1570,
+   "fallas": 322,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 1575
+  },
+  "M338": {
+   "poligonos": 801,
+   "fallas": 61,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 763
+  },
+  "M33": {
+   "poligonos": 2384,
+   "fallas": 814,
+   "sin_edad": 0,
+   "sin_litologia": 33,
+   "kb": 2089
+  },
+  "M341": {
+   "poligonos": 2346,
+   "fallas": 784,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 1877
+  },
+  "M34": {
+   "poligonos": 890,
+   "fallas": 505,
+   "sin_edad": 5,
+   "sin_litologia": 38,
+   "kb": 1165
+  },
+  "M351": {
+   "poligonos": 595,
+   "fallas": 141,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 848
+  },
+  "M35": {
+   "poligonos": 542,
+   "fallas": 287,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 725
+  },
+  "M36": {
+   "poligonos": 671,
+   "fallas": 607,
+   "sin_edad": 0,
+   "sin_litologia": 8,
+   "kb": 856
+  },
+  "M37": {
+   "poligonos": 576,
+   "fallas": 512,
+   "sin_edad": 16,
+   "sin_litologia": 6,
+   "kb": 1183
+  },
+  "M38": {
+   "poligonos": 882,
+   "fallas": 526,
+   "sin_edad": 5,
+   "sin_litologia": 0,
+   "kb": 1505
+  },
+  "M39": {
+   "poligonos": 926,
+   "fallas": 413,
+   "sin_edad": 2,
+   "sin_litologia": 38,
+   "kb": 1010
+  },
+  "M418": {
+   "poligonos": 832,
+   "fallas": 154,
+   "sin_edad": 0,
+   "sin_litologia": 28,
+   "kb": 901
+  },
+  "M428": {
+   "poligonos": 348,
+   "fallas": 817,
+   "sin_edad": 40,
+   "sin_litologia": 0,
+   "kb": 644
+  },
+  "M51": {
+   "poligonos": 465,
+   "fallas": 41,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 499
+  },
+  "M52": {
+   "poligonos": 337,
+   "fallas": 16,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 400
+  },
+  "M53": {
+   "poligonos": 194,
+   "fallas": 0,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 324
+  },
+  "M55": {
+   "poligonos": 630,
+   "fallas": 211,
+   "sin_edad": 0,
+   "sin_litologia": 0,
+   "kb": 633
+  }
+ },
+ "fallidas": {
+  "M316_0.gdb": "C:\\Users\\carlos.venegas\\IA\\Claude\\proyectos\\cartas-geologicas-sernageomin\\_mapas_por_ingresar\\gdb_extraidos\\M316_GIS\\M316_0.gdb: Permission denied",
+  "M338_1.gdb": "sin GB_UNIDAD_GEO"
+ },
+ "totales": {
+  "poligonos": 92417,
+  "fallas": 40710,
+  "sin_edad": 782,
+  "sin_litologia": 1184,
+  "pct_sin_edad": 0.8,
+  "pct_sin_litologia": 1.3
+ }
+}
